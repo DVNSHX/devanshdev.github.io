@@ -58,7 +58,7 @@ span {
 
 .btn-primary {
   background-color:#f2f00c;
-  border-color: #f2f00c !important;
+  border-color: #f2f00c;
 }
 
 .btn-primary:hover{
