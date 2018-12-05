@@ -68,7 +68,12 @@ span {
   cursor: pointer;
 }
 
-#mc-embedded-subscribe {
+.mc-embedded-signup{
+  padding: 0;
+  text-align: center;
+}
+
+#center-align{
   padding: 0;
   text-align: center;
 }
