@@ -67,3 +67,8 @@ span {
   border-width: 5px;
   cursor: pointer;
 }
+
+#mc-embedded-subscribe {
+  padding: 0;
+  text-align: center;
+}
